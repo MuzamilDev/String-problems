@@ -1,2 +1,1 @@
-# string-r
-Here Read String operations
+C++ string operations
